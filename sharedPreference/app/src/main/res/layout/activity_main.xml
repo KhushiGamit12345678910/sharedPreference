@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".SplashScreen">
 
-
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/splashText"
         android:layout_width="match_parent"
