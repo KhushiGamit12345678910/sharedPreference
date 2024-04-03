@@ -18,7 +18,6 @@
         app:layout_constraintBottom_toTopOf="@+id/splashImage"
         android:layout_marginTop="@dimen/dimen_40dp"/>
 
-
     <androidx.appcompat.widget.AppCompatImageView
         android:id="@+id/splashImage"
         android:layout_width="@dimen/dimen_300dp"
